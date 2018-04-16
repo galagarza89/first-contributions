@@ -3354,3 +3354,4 @@
 - [Collin Feldpausch](https://github.com/cfeldpa2)
 - [Eric Lew](https://github.com/hyser521)
 - [Poe C](https://github.com/poesche)
+- [David Galagarza](https://github.com/galagarza89)
